@@ -1,0 +1,19 @@
+* {
+	font-size: 10pt;
+	text-align: center;
+}
+
+body {
+	margin: 8px;
+}
+
+a {
+	text-decoration: none;
+	color: #ffc001;
+	font-weight: 900;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #ffc001;
+}
